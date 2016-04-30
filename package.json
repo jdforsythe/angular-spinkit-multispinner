@@ -1,0 +1,47 @@
+{
+  "name": "angular-spinkit-multispinner",
+  "version": "1.0.0",
+  "description": "SpinKit random multi-spinner",
+  "main": "src/angular-spinkit-multispinner.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdforsythe/angular-spinkit-multispinner.git"
+  },
+  "keywords": [
+    "angular",
+    "directive",
+    "spinkit",
+    "spinner"
+  ],
+  "author": "Jeremy Forsythe <jdforsythe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdforsythe/angular-spinkit-multispinner/issues"
+  },
+  "homepage": "https://github.com/jdforsythe/angular-spinkit-multispinner#readme",
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5",
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jscs-stylish": "^1.4.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-uglify": "^1.5.3",
+    "jasmine-core": "^2.4.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.1.0",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^0.3.8",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-spec-reporter": "0.0.26",
+    "phantomjs-prebuilt": "^2.1.7"
+  }
+}
